@@ -1,0 +1,20 @@
+
+    .div1{margin-left: 50px;
+    background-color: black;}
+    .div2{margin-left:50px ;
+    background-color: black;}
+    .div3{margin-left: 50px;
+    background-color: black;}
+    .div4{margin-left: 50px;
+    background-color: black; }
+.h1{color: aliceblue;}
+.par{color: aliceblue;}
+.h3{color: aliceblue;}
+
+.div {
+    display: flex;
+    background-color: black;}
+    .link1{background-color: blue;} .tex1{color: aliceblue;}
+.link2{background-color: blue;} .tex2{color: aliceblue;}
+.link3{background-color: blue;} .tex3{color: aliceblue;}
+.link4{background-color: blue;} .tex4{color: aliceblue;}
